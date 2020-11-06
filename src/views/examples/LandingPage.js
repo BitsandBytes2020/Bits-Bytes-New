@@ -210,7 +210,7 @@ function LandingPage() {
                   />
                   <Row>
                     <Col className="ml-auto mr-auto" md="4">
-                      <Button className="btn-fill" color="danger" size="lg" type = "submit">
+                      <Button className="btn-fill" color="danger" size="lg" type = "submit" target = "_blank">
                         Send Message
                       </Button>
                     </Col>
