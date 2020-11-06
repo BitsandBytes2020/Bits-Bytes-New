@@ -57,13 +57,13 @@ getCategoryData((fetchedData)=>{
      <Route path="/magazine"  render={(props)=><MagazinePage {...props}/>}/>
 
         {/* Index Route */}
-        <Route path="/index" render={(props) => <Index {...props} />} />
+        <Route path="/" render={(props) => <Index {...props} />} />
 
         <Route
           path="/register-page"
           render={(props) => <RegisterPage {...props} />}
         />
-        <Redirect to="/index" />
+        <Redirect to="/" />
 
       </Switch>
       
