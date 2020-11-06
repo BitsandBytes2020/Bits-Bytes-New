@@ -61,7 +61,7 @@ function ExamplesNavbar() {
         <div className="navbar-translate">
           <NavbarBrand
             data-placement="bottom"
-            to="/index"
+            to="/"
             title="Company name"
             tag={Link}
           >
@@ -88,7 +88,7 @@ function ExamplesNavbar() {
         >
           <Nav navbar>
             <NavItem >
-              <NavLink to="/index" tag={Link} onClick={handleEvent}>
+              <NavLink to="/" tag={Link} onClick={handleEvent}>
                 <i className="fa fa-home" /> Home
               </NavLink>
             </NavItem>
@@ -96,7 +96,7 @@ function ExamplesNavbar() {
 
             <NavItem>
               <NavLink
-              to="/index"
+              to="/"
               tag={Link}
               onClick={handleCategory}
               >
