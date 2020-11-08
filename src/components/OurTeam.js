@@ -37,7 +37,7 @@ const teamMembers = [
     {
         id : 6,
         name : "Dimpy Tolani",
-        image : require("../assets/teamImages/AseesPreet.jpg"),
+        image : require("../assets/teamImages/dimpy.jpg"),
         role : "Marketing and Public Relations Consultant",
         instagram : "https://www.instagram.com/dimpytolani/",
         
