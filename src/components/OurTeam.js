@@ -17,7 +17,7 @@ const teamMembers = [
         id : 3,
         name : "Ekas",
         image : require("../assets/teamImages/Ekas.jpg"),
-        role : "Marketing Head",
+        role : "Vice President",
         instagram : "https://www.instagram.com/ekas2212/",
     },
     {
@@ -36,10 +36,10 @@ const teamMembers = [
     },
     {
         id : 6,
-        name : "Aseespreet Singh",
+        name : "Dimpy Tolani",
         image : require("../assets/teamImages/AseesPreet.jpg"),
-        role : "Graphic Designer",
-        instagram : "https://www.instagram.com/asees66/",
+        role : "Marketing and Public Relations Consultant",
+        instagram : "https://www.instagram.com/dimpytolani/",
         
     },
     {
@@ -50,32 +50,9 @@ const teamMembers = [
         instagram : "https://www.instagram.com/deepanshi._.sharma/",
         
     },
+         
     {
         id : 8,
-        name : "Sirjana Virk",
-        image : require("../assets/teamImages/Srijana.jpg"),
-        role : "Content Writer",
-        instagram : "https://www.instagram.com/_sirjana_virk_/",
-        
-    },
-    {
-        id : 9,
-        name : "Simran Sohi",
-        image : require("../assets/teamImages/Simran.jpg"),
-        role : "Content Writer",
-        instagram : "https://www.instagram.com/sylhet.xo/",
-        
-    },
-    {
-        id : 10,
-        name : "Sahil Mittal",
-        image : require("../assets/teamImages/Sahil Mittal.jpg"),
-        role : "Content Writer",
-        instagram : "https://www.instagram.com/sahil.121/",
-        
-    },
-    {
-        id : 11,
         name : "Ayushi Lakhanpal",
         image : require("../assets/teamImages/Ayushi Lakhanpal.jpg"),
         role : "Content Creator",
